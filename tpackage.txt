@@ -1,0 +1,8 @@
+timer-shell
+loop
+bg-slideshow
+connection
+mknpm
+mitman
+trepo-installer
+findps
