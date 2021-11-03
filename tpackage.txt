@@ -6,3 +6,6 @@ mknpm
 mitman
 trepo-installer
 findps
+rands
+rand-hex
+tman
