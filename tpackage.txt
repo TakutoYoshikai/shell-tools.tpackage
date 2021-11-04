@@ -4,7 +4,7 @@ bg-slideshow
 connection
 mknpm
 mitman
-trepo-installer
+trepo
 findps
 rands
 rand-hex
