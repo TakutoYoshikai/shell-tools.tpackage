@@ -9,3 +9,4 @@ findps
 rands
 rand-hex
 tman
+alphabets
